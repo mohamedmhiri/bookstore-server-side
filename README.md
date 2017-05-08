@@ -9,7 +9,7 @@ first install git and node
 
 then open your Bash (Unix like) or your command prompt (Windows) 
 
-and type: git clone https://github.com/mohamedmhiri/yet-another-bookstore.git 
+and type: git clone https://github.com/mohamedmhiri/bookstore-client-side.git
 
 Now go under that directory with "cd yet-another-bookstore" and type "npm install"
 
